@@ -49,18 +49,28 @@ I am a **Computer Science** undergraduate at **IIIT Kottayam**, driven by a pass
 
 ---
 
+### <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="30"> Projects
+
+| **Project** | **Description & Tech Stack** |
+| :--- | :--- |
+| **AlgoLadder** <br/> _(CP Learning Platform)_ | 🚀 **Overview:** A competitive programming platform featuring in-browser coding capabilities.<br/>🛠 **Stack:** MERN (MongoDB, Express, React, Node.js)<br/>✨ **Features:** Real-time code compilation, problem sets, and user leaderboards. |
+| **Stock Trading Engine** <br/> _(Zerodha Inspired)_ | 📈 **Overview:** A high-performance backend for a stock trading platform handling concurrent user requests.<br/>🛠 **Stack:** Node.js, Express, MongoDB<br/>💡 **Focus:** ACID compliance, scalable architecture, and secure transaction handling. |
+| **Tour Management** <br/> _(DBMS System)_ | 🌍 **Overview:** A comprehensive database management system for travel logistics.<br/>🛠 **Stack:** SQL, Relational Database Design<br/>📊 **Focus:** Complex queries, ER modeling, and data integrity. |
+
+---
+
 ### <img src="https://media.giphy.com/media/iTts6mFqw1xmw/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivNcode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="180" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivNcode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=39FF14&fire=39FF14&currStreakNum=39FF14" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivNcode&theme=tokyonight&hide_border=true&background=0d1117&ring=39FF14&fire=39FF14&currStreakNum=39FF14" alt="streak graph" />
 </div>
 
 ---
