@@ -53,8 +53,8 @@ I am a **Computer Science** undergraduate at **IIIT Kottayam**, driven by a pass
 
 | **Project** | **Description & Tech Stack** |
 | :--- | :--- |
+| **Nexus** <br/> _(Social Learning Platform)_ | 🎓 **Overview:** A collaborative social platform designed for peer-to-peer learning and community engagement.<br/>🛠 **Stack:** React.js, Supabase, Tailwind CSS<br/>✨ **Features:** Real-time social feeds, resource sharing, and interactive user profiles. |
 | **Stock Trading Engine** <br/> _(Zerodha Inspired)_ | 📈 **Overview:** A high-performance backend for a stock trading platform handling concurrent user requests.<br/>🛠 **Stack:** Node.js, Express, MongoDB<br/>💡 **Focus:** ACID compliance, scalable architecture, and secure transaction handling. |
-| **Tour Management** <br/> _(DBMS System)_ | 🌍 **Overview:** A comprehensive database management system for travel logistics.<br/>🛠 **Stack:** SQL, Relational Database Design<br/>📊 **Focus:** Complex queries, ER modeling, and data integrity. |
 
 ---
 
